@@ -1,0 +1,39 @@
+_repo: Kuvauksia-nykyaikaisista-telotuksista_73687
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kurki, K.
+    gutenberg_agent_id: '57171'
+    url: http://www.gutenberg.org/2009/agents/57171
+creator:
+  author:
+    agent_name: Vladimirov, V.
+    aliases:
+    - Wladimirow, W.
+    - Popov, Vladimir Evgrafovich
+    gutenberg_agent_id: '57178'
+    url: http://www.gutenberg.org/2009/agents/57178
+description: Appears to be translated selections from Очерки современных казней.
+gutenberg_issued: '2024-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73687'
+language: fi
+pgterms:marc905: 20210605070729wladimirow
+pgterms:marc906: '1907'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kaliev, Ivan Platonovich, 1877-1905 -- Trials, litigation, etc.'
+- !lcsh 'Balmashev, S. V. (Stepan Valerianovich), 1881-1902 -- Trials, litigation,
+  etc.'
+- !lcsh 'Executions and executioners -- Russia'
+- !lcc 'DK'
+- !lcc 'HV'
+- GITenberg
+title: Kuvauksia nykyaikaisista telotuksista
+url: http://www.gutenberg.org/ebooks/73687
