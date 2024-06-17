@@ -5,6 +5,9 @@ contributor:
     agent_name: Kurki, K.
     gutenberg_agent_id: '57171'
     url: http://www.gutenberg.org/2009/agents/57171
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vladimirov, V.
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '57178'
     url: http://www.gutenberg.org/2009/agents/57178
 description: Appears to be translated selections from Очерки современных казней.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73687#Kuvauksia-nykyaikaisista-telotuksista
 gutenberg_issued: '2024-05-24'
 gutenberg_type: Text
 identifiers:
